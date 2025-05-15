@@ -7,6 +7,6 @@ db/wheels/
 db/*.egg-info
 
 # Virtual environments
-.venv
+db/.venv
 db/.env
 
